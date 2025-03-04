@@ -11,3 +11,14 @@ numpy
 matplotlib
 Pillow
 tqdm
+jupyter
+jupyterlab  # JupyterLab is a next-generation web-based user interface for Project Jupyter.
+ipywidgets      # IPython widgets are interactive HTML widgets for Jupyter notebooks and the IPython kernel.
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+jupyterthemes
+jupyterlab_code_formatter
+ipykernel    # IPython Kernel for Jupyter
+scikit
+sklearn
+scipy
