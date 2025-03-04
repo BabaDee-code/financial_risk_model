@@ -6,7 +6,7 @@ This module contains global parameters and settings that are used across other m
 """
 
 # Data paths
-DATA_FILE_PATH = "data\default of credit card clients.csv"  # Path to the credit risk dataset
+DATA_FILE_PATH = "data/financial_risk_assessment.csv"  # Path to the credit risk dataset
 
 # Model hyperparameters for Random Forest
 MODEL_PARAMS = {
